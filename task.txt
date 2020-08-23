@@ -1,0 +1,10 @@
+1) make a good web page with HTML,CSS ( example ideas mentioned ) and upload it's file to the github
+and share the repository url with us
+
+example website ideas -
+https://24dlmn2bqamt1e72kah59881-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/9.png
+https://www.designyourway.net/diverse/6/webchanging/karenmillen_com_gb_home.jpg
+https://i.pinimg.com/736x/82/1a/e5/821ae5ce67b21e7769c624c207bbeead.jpg
+
+2) fork the repository ( mentioned ) of the JD animated website and create a new branch in your forked repository and do some changes on that branch and request pull request from the owner
+repository, you've to fork : https://github.com/asynchronousJavascriptor/JD-Project
